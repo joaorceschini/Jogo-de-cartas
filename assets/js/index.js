@@ -1,0 +1,1 @@
+const rapospiao = new Rumble("Rapospião", 3, 7, "Lendário", "./rapospiao.jpg");
